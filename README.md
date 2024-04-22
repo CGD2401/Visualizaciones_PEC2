@@ -11,7 +11,7 @@ Este enlace llevará a un diagrama de red interactivo que se muestra en Retina.
 
 
 
-![Diagrama de Red](graph.png)
+![Diagrama de Red](graph2.png)
 
 
 ---
