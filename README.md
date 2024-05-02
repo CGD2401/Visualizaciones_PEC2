@@ -1,7 +1,9 @@
 # Visualizaciones PEC2
+---
 
+## Diagrama de Red  / Network Diagram
 
-## Diagrama de Red
+El diagrama de red o Netowork diagram muestra relaciones entre nodos (puntos) y enlaces (líneas o aristas). Se utiliza para entender cómo están conectadas diferentes entidades o cualquier sistema de elementos interconectados. Su origen se asocia con el campo de teoría de grafos. En nuestro caso, se ha empleado para relacionar un cantante seleccionado, el número de seguidores en Spotify y otros cantantes similares. 
 
 Para ver el diagrama de red, haz clic en el siguiente enlace:
 
@@ -9,9 +11,44 @@ Para ver el diagrama de red, haz clic en el siguiente enlace:
 
 Este enlace llevará a un diagrama de red interactivo que se muestra en Retina.
 
+![Diagrama de barra](imagenes/graph2.png)
 
+## Bar chart / Gráfico de barras
 
-![Diagrama de Red](graph2.png)
+El gráfico de barras es una de las técnicas de visualización más básicas y conocidas. Consiste en barras horizontales o verticales que representan diferentes categorías. El largo de cada barra es proporcional al valor que representa. En nuestro caso, se ha empleado para visualizar las emisiones de CO_2 de países en diferentes áreas del mundo a lo largo del tiempo.
 
+Para ver los gráficos de barra creados, haz clic en el siguiente enlace:
 
----
+[Ver Barplot Charts](Barplot.html)
+
+Este enlace llevará a un html on los gráficos creados en Jupyter Noebook.
+
+Las visualizaciones creadas se muestran a continuación:
+
+![Bar chart - Emisiones de CO2 por países a lo largo del tiempo](barplot_CO2_total_years.png)
+![Bar chart - Emisiones de C02 por paíse en los últimos 10 años](barplot_CO2_10años_1.png)
+![Bar chart ](barplot_CO2_10años_5.png)
+![Bar chart - Emisiones de CO2 en 2020 para los países seleccionados](barplot_CO2_2020.png)
+
+![Bar chart - Emisiones de CO2 en los últimos 10 años de los diferentes países seleccionados](barplot_CO2_10años_split.png)
+
+Estos mísmos datos se podrían representar también con un gráfico de líneas a lo largo del tiempo:
+![Bar chart ](barplot_CO2_10años_lineas.png)
+![Bar chart ](barplot_CO2_10años_lineas_cont.png)
+
+## Ridgelin Diagram / Joyplot / Gráfico de crestas
+
+El ridgeline chart, o Joy Division Chart, muestra múltiples distribuciones superpuestas. Se utiliza para observar tendencias y comparar distribuciones en diferentes categorías y es útil para visualizaciones que requieren mostrar la densidad de datos a través del tiempo o de múltiples categorías. En nuestro caso, se ha empleado para visualizar la temperatura registrada en España y Europa en el año 2015 y su variación a lo largo de los meses.
+
+Para ver los gráficos de barra creados, haz clic en el siguiente enlace:
+
+[Ver Ridgeline Charts](RidgelineChart.html)
+
+Este enlace llevará a un html on los gráficos creados en Jupyter Noebook.
+
+Las visualizaciones creadas se muestran a continuación:
+
+![Joyplot - Temperatura en España para el año 2015](Temperatura_ES2015.png)
+![Joyplot - Temperatura en la región de Europa para el año 2015 ](Temperatura_EU2015.png)
+![Joyplot - Temperatura en España para el año 2015 con gradiente por 12 meses](joyplot_Temperatura_ES2015.png)
+![Joyplot - Temperatura en la región de Europa para el año 2015 con gradiente por 12 meses](joyplot_Temperatura_EU2015.png)
