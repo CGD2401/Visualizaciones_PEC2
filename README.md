@@ -11,7 +11,7 @@ Para ver el diagrama de red, haz clic en el siguiente enlace:
 
 Este enlace llevará a un diagrama de red interactivo que se muestra en Retina.
 
-![Diagrama de barra](imagenes/graph2.png)
+![Diagrama de barra](graph2.png)
 
 ## Bar chart / Gráfico de barras
 
@@ -48,7 +48,7 @@ Este enlace llevará a un html on los gráficos creados en Jupyter Noebook.
 
 Las visualizaciones creadas se muestran a continuación:
 
-![Joyplot - Temperatura en España para el año 2015](Temperatura_ES2015.png)
-![Joyplot - Temperatura en la región de Europa para el año 2015 ](Temperatura_EU2015.png)
+![Joyplot - Temperatura en España para el año 2015](joyplot_Temperature_ES2015.png)
+![Joyplot - Temperatura en la región de Europa para el año 2015 ](joyplot_Temperature_EU2015.png)
 ![Joyplot - Temperatura en España para el año 2015 con gradiente por 12 meses](joyplot_Temperatura_ES2015.png)
 ![Joyplot - Temperatura en la región de Europa para el año 2015 con gradiente por 12 meses](joyplot_Temperatura_EU2015.png)
