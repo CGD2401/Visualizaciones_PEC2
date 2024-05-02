@@ -3,7 +3,7 @@
 
 ## Diagrama de Red  / Network Diagram
 
-El diagrama de red o Netowork diagram muestra relaciones entre nodos (puntos) y enlaces (líneas o aristas). Se utiliza para entender cómo están conectadas diferentes entidades o cualquier sistema de elementos interconectados. Su origen se asocia con el campo de teoría de grafos. En nuestro caso, se ha empleado para relacionar un cantante seleccionado, el número de seguidores en Spotify y otros cantantes similares. 
+El diagrama de red o Netowork diagram muestra relaciones entre nodos (puntos) y enlaces (líneas o aristas). Se utiliza para entender cómo están conectadas diferentes entidades o cualquier sistema de elementos interconectados. Su origen se asocia con el campo de teoría de grafos. En nuestro caso, se ha empleado para relacionar un cantante seleccionado, con el número de seguidores y popularidad con respecto a otros cantantes similares en Spotify. 
 
 Para ver el diagrama de red, haz clic en el siguiente enlace:
 
