@@ -30,7 +30,7 @@ Las visualizaciones creadas se muestran a continuación:
 ![Bar chart ](barplot_CO2_10años_5.png)
 ![Bar chart - Emisiones de CO2 en 2020 para los países seleccionados](barplot_CO2_2020.png)
 
-![Bar chart - Emisiones de CO2 en los últimos 10 años de los diferentes países seleccionados](barplot_CO2_10años_split.png)
+![Bar chart - Emisiones de CO2 en los últimos 10 años de los diferentes países seleccionados](barplot_CO2_10_split.png)
 
 Estos mísmos datos se podrían representar también con un gráfico de líneas a lo largo del tiempo:
 ![Bar chart ](barplot_CO2_10años_lineas.png)
